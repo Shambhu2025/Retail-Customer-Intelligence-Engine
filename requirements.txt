@@ -1,0 +1,14 @@
+# Data Manipulation
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning & Preprocessing
+scikit-learn
+
+# File Handling (Essential for Excel files)
+openpyxl
